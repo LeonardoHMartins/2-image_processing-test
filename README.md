@@ -22,7 +22,7 @@ O pacote "image_processing-test" é usado para:
   - Resultado do gráfico;
   - Plotar histograma;
 
-## Installation
+## Instalação
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
@@ -30,11 +30,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 pip install package_name
 ```
 
-## Author
+## Autor
 Leonardo Henrique Martins
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Observação
 
 ### Aqui o objetivo não é utilizar o projeto da Karina para postar em meu perfil do Pypi pessoal, visto que o projeto é dela. Ainda não tenho nenhum projeto que possa ser utilizado como pacote.
 
